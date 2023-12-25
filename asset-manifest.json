@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.0796f42b.css",
-    "main.js": "/portfolio/static/js/main.8ba454ad.js",
-    "static/media/user.jpg": "/portfolio/static/media/user.d5cf2b019ce73ff1bd67.jpg",
-    "static/media/suraj-Cv.pdf": "/portfolio/static/media/suraj-Cv.94ce34b786f660bc2e0a.pdf",
-    "static/media/project-2.jpg": "/portfolio/static/media/project-2.0dfdb478a2db20f08cf8.jpg",
-    "static/media/project-5.jpg": "/portfolio/static/media/project-5.f6885d316197f5d72029.jpg",
-    "static/media/project-6.jpg": "/portfolio/static/media/project-6.f4df07761e8241c83a94.jpg",
-    "static/media/project-4.jpeg": "/portfolio/static/media/project-4.5bc2687cdb426a57c84c.jpeg",
-    "static/media/project-3.jpeg": "/portfolio/static/media/project-3.5ae83458f56a1d1d3163.jpeg",
-    "static/media/project-1.jpeg": "/portfolio/static/media/project-1.fa7bcd15ca2c6d433163.jpeg",
-    "static/media/close.svg": "/portfolio/static/media/close.5bec4f69e1bbfff50fdfacd4eaff052a.svg",
-    "index.html": "/portfolio/index.html",
-    "main.0796f42b.css.map": "/portfolio/static/css/main.0796f42b.css.map",
-    "main.8ba454ad.js.map": "/portfolio/static/js/main.8ba454ad.js.map"
+    "main.css": "/Suraj-portfolio/static/css/main.0796f42b.css",
+    "main.js": "/Suraj-portfolio/static/js/main.c2507757.js",
+    "static/media/user.jpg": "/Suraj-portfolio/static/media/user.d5cf2b019ce73ff1bd67.jpg",
+    "static/media/suraj-Cv.pdf": "/Suraj-portfolio/static/media/suraj-Cv.94ce34b786f660bc2e0a.pdf",
+    "static/media/project-2.jpg": "/Suraj-portfolio/static/media/project-2.0dfdb478a2db20f08cf8.jpg",
+    "static/media/project-5.jpg": "/Suraj-portfolio/static/media/project-5.f6885d316197f5d72029.jpg",
+    "static/media/project-6.jpg": "/Suraj-portfolio/static/media/project-6.f4df07761e8241c83a94.jpg",
+    "static/media/project-4.jpeg": "/Suraj-portfolio/static/media/project-4.5bc2687cdb426a57c84c.jpeg",
+    "static/media/project-3.jpeg": "/Suraj-portfolio/static/media/project-3.5ae83458f56a1d1d3163.jpeg",
+    "static/media/project-1.jpeg": "/Suraj-portfolio/static/media/project-1.fa7bcd15ca2c6d433163.jpeg",
+    "static/media/close.svg": "/Suraj-portfolio/static/media/close.5bec4f69e1bbfff50fdfacd4eaff052a.svg",
+    "index.html": "/Suraj-portfolio/index.html",
+    "main.0796f42b.css.map": "/Suraj-portfolio/static/css/main.0796f42b.css.map",
+    "main.c2507757.js.map": "/Suraj-portfolio/static/js/main.c2507757.js.map"
   },
   "entrypoints": [
     "static/css/main.0796f42b.css",
-    "static/js/main.8ba454ad.js"
+    "static/js/main.c2507757.js"
   ]
 }
