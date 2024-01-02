@@ -19,7 +19,7 @@ const Home = () => {
             constant development of new skills and maximum utilization of the
             existing skills for mutual growth and benefits.
           </p>
-          <Link to="/Suraj-portfolio/about" className="button">
+          <Link to="/about" className="button">
             More About Me{" "}
             <span className="button__icon">
               <FaArrowRight />
