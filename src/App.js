@@ -13,8 +13,8 @@ function App() {
     <Navbar/>
     <Themes/>
       <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/Suraj-portfolio" element={<Home />} />
+          {/* <Route path="/" element={<Home />} /> */}
+          <Route path="/Suraj-portfolio/" element={<Home />} />
           <Route path="/Suraj-portfolio/about" element={<About />} />
           <Route path="/Suraj-portfolio/portfolio" element={<Portfolio />} />
           <Route path="/Suraj-portfolio/contact" element={<Contact />} />
