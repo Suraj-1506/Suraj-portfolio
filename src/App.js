@@ -9,12 +9,12 @@ import Contact from './pages/contact/contact';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Suraj-portfolio">
     <Navbar/>
     <Themes/>
       <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/Suraj-portfolio" element={<Home />} />
+          {/* <Route path="/Suraj-portfolio" element={<Home />} /> */}
           <Route path="/about" element={<About />} />
           <Route path="/portfolio" element={<Portfolio />} />
           <Route path="/contact" element={<Contact />} />
